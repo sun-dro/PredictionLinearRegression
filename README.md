@@ -1,4 +1,6 @@
 # Math function
-This is repo for my first function during internship in Unilab
+კვადრატში აყვანის ფუნქცია
 
-Function is for square numbers
+არგუმენტად იღებს რიცხვს (int, float)
+
+აბრუნდებს შეყვანილი რიცხვის კვადრატს (int, float)
