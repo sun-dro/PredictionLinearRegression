@@ -1,3 +1,5 @@
 # this is function for square numbers
+
+@app.route('/<int:num>')
 def square_number(num):
-    return num ** 2
+    return {f'Square number of {num}': num ** 2}
